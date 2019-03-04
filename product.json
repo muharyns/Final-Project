@@ -1,0 +1,84 @@
+[
+   
+    {
+        "name": "Template Magazine Premium Wordpress",         
+        "img": "https://cdn.projects.co.id/upload/usr418511/201812115c0fb4c3042d7.jpg", 
+        
+        "detail": 
+            {
+                "desc": "Professional Template Premium Wordpress. Responsive Design Mega Menu Post Review on post Mobile slide menu Google font Unlimited Color Unlimited Sidebar Social Share theme options Online Support Free Lifetime Updates WooCommerce supports Full-Width and Boxed layout RTL supported Mega menu style Home page grid post ajax load more Home page list post ajax load more Sticky menu have option for disable or enable Easy to use Drag & Drop Page builder 20 block Drag&Drop Content Builder Widgets: Facebook Like Box Flickr Popular posts Recent comments Recent post Tab Ads 300×250 Tab category post Post large text overlay Slider post large post list style black background post style Subscribe box Social icons and more",
+                "category": [
+                    "Web Programming",
+                    "Wordpress"
+                ], 
+                "price": "Rp 199,000", 
+                "seller": "temperate"
+            }
+        
+    }, 
+    {
+        "name": "Source Code Aplikasi Arah KIblat Berbasis Android",         
+        "img": "https://cdn.projects.co.id/upload/usrfb7c14/2017050359099d25e4e6d.jpg", 
+        
+        "detail": 
+        {
+            "desc": "Aplikasi untuk menentukan arah kiblat.. penentuan arahnya berdasarkan koordinat GPS.  sehingga jika berpindah tempat maka secara otomatis aplikasi akan menyesuaikan.  perhitungan untuk menentukan arah kiblat menggunakan rumus trigonometri segitiga bola.. fitur - fitur : menentukan sudut arah kiblat menunjukkan arah kiblat dengan panah. menentukan lokasi koordinat secara otomatis menentukan alamat menentukan alamat berdasarkan koordinat yang dideteksi. aplikasi dibuat menggunakan eclipse versi indigo tanpa database",
+            "category": [
+                "Java",
+                "Android"
+            ], 
+            "price": "Rp 300,000", 
+            "seller": "temperate"
+        }
+        
+    },
+    {
+        "name": "Kamus Gaul Android",         
+        "img": "https://cdn.projects.co.id/upload/usrfe1a11/201509295609fadabf16b.jpg", 
+        
+        "detail": 
+        {
+            "desc": "Aplikasi Ini adalah untuk menampilkan arti kata gaul yang tersimpan di server melalui API json untuk link demo aplikasi ada di http://play.google.com/store/apps/details?id=com.sebarmedia.kamusgaul Fitur : - Admob ready (untuk monetize) - filter di listview - data tersimpan di server sehingga bisa di update atau di tambah dengan mudah Isi Source code : - source code aplikasi android sama seperti yang ada di http://play.google.com/store/apps/details?id=com.sebarmedia.kamusgaul - source code php untuk ambil data (API) - database kamus gaul full Target Pembeli : - untuk yang ingin mempelajari android dasar - untuk yang ingin mempelajari admob (monetize aplikasi mobile) - untuk yang ingin mempelajari cara mengambil data dari server melalui API json dengan mudah - untuk yang ingin mempelajari cara filter data yang telah kita ambil tadi dari server - untuk yang ingin mencari ide membuat aplikasi sejenis Group facebook",
+            "category": [
+                "Mysql",
+                "Android",
+                "Php"
+            ], 
+            "price": "Rp 199,000", 
+            "seller": "temperate"
+        }
+        
+    },
+    {
+        "name": "PHP Codeigniter CRUD MySQL Untuk Starting Project",         
+        "img": "https://cdn.projects.co.id/upload/usra23211/201801315a71f24338093.jpg", 
+        
+        "detail": 
+        {
+            "desc": "Produk ini merupakan aplikasi web berbasis PHP  menggunakan framework CodeIgniter 3. Aplikasi ini adalah 'starting app' untuk membuat aplikasi yang lebih besar, karena sudah support fungsi dasar untuk memuat aplikasi. Aplikasi ini menggunakan database MySQL Adapun fitur dari aplikasi ini adalah: Responsive design Sign In / Sign Out CRUD User, username bersifat unik, password menggunakan hash, saat delete menggunakan ajax Update role user, setiap user bisa memiliki lebih dari satu role CRUD Role Update profil",
+            "category": [
+                "Web Programming",
+                "Codeigniter",
+                "Php"
+            ], 
+            "price": "Rp 100,000", 
+            "seller": "temperate"
+        }
+        
+    },
+    {
+        "name": "Sistem Informasi Manajemen Kepegawaian Berbasis WEB - Full Script",         
+        "img": "https://cdn.projects.co.id/upload/usra29411/20151118564be67db2dc2.jpg", 
+        
+        "detail": 
+        {
+            "desc": "Sistem Informasi Manajemen Kepegawaian Berbasis WEB - full script - terdiri dari dua aplikasi. alikasi untuk absensi karyawan dan aplikasi untuk mengelola data kehadiran karyawan dan data karyawan. - data kehadiran dan data karyawan dapat diekspor menjadi xls(excel) - tersedia grafik kehadiran dan grafik lainnya. - tampilan backend yang responsive - PHP Native demo:  - https://demo.mrachmatriadi.id/simkepegawaian/ - https://demo.mrachmatriadi.id/simkepegawaian/absensi/",
+            "category": [
+                "Web Programming",
+                "Php"
+            ], 
+            "price": "Rp 500,000", 
+            "seller": "temperate"
+        } 
+    }    
+]
